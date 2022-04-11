@@ -15,7 +15,7 @@ const loggerTransports = [
   {
     type: 'slack',
     options: {
-      webhookUrl: 'https://hooks.slack.com/services/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',
+      webhookUrl: 'YOUR_SLACK_WEBHOOK',
       username: 'MY APP'
     }
   }
